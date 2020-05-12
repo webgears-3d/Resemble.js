@@ -11,3 +11,5 @@ dockerfile
 .travis.yml
 memory-leak-test.js
 coverage
+.idea
+.DS_Store
